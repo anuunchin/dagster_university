@@ -1,0 +1,15 @@
+# ignore basic python artifacts
+.env
+/local_cache
+/tmpn75idqk7
+/tmpu0j5k9_2
+/myenv
+/test_venv
+.dlt
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+# ignore duckdb
+*.duckdb
+*.wal
+.env
